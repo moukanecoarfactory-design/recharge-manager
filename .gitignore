@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+.Python
+venv/
+env/
+
+# PyInstaller
+build/
+dist/
+*.spec
+
+# Base de données
+data/recharge.db
+data/recharge_old.db
+data/backups/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# OS
+.DS_Store
+Thumbs.db
